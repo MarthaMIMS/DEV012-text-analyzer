@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Analizador de texto</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+<header>
+<h1>Analizador de texto</h1>
+<script src="index.js" type="module"></script>
+</header> 
+
+
+<div>
+  <textarea name="user-input"  rows="5" cols="33"  placeholder="Escribe aqui"></textarea>
+</div>
+  <ul>
+    <li data-testid="word-count" class="metrica">Recuento de palabras:</li>
+    <li data-testid="character-count" class="metrica">Recuento de Caracteres</li>
+    <li data-testid="character-no-spaces-count" class="metrica">Caracteres sin espacio:</li>
+    <li data-testid="number-count" class="metrica">Recuento de numeros:</li>
+    <li data-testid="number-sum" class="metrica">Suma total de números:</li>
+    <li data-testid="word-length-average" class="metrica">Longitud media de palabras:</li>   
+  </ul>
+  <button id="reset-button" >Limpiar</button>
+    <footer>
+      <p>©Martha Meliton</p>
+    </footer>
+    
+</body>
+</html>
