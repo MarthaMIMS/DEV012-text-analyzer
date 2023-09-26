@@ -1,6 +1,21 @@
 # Analizador de texto
 ![](Opera Captura de pantalla_2023-09-26_153003_192.168.100.8.png)
+
 ## Índice
+*Descripcion
+*Caracteristicas
+*Funcionalidad
+*
+
+##Descripcion
+Esta herramienta es capaz de obtener métricas importantes de cualquier texto. Con ella, puedes obtener información sobre el contenido de un texto de manera rápida y sencilla. El Analizador de Texto cuenta con las siguientes 6 métricas:
+1.Recuento de palabras: La aplicación muestra el número de palabras en el texto de entrada.
+2.Recuento de caracteres: Cuenta el número de caracteres en el texto de entrada, incluidos espacios y signos de puntuación.
+3.Recuento de caracteres excluyendo espacios y signos de puntuación: Cuenta el número de caracteres en el texto de entrada, excluyendo espacios y signos de puntuación.
+4.Recuento de números: Cuenta cúantos números hay en el texto de entrada.
+5.Suma total de números: Suma todos los números que hay en el texto de entrada.
+6.Longitud media de las palabras: Calcula la longitud media de las palabras en el texto de entrada.
+
 
 * [1. Consideraciones generales](#1-consideraciones-generales)
 * [2. Preámbulo](#2-preámbulo)
