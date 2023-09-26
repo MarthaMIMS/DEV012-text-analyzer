@@ -1,5 +1,5 @@
 # Analizador de texto
-
+![Una lupa sobre texto de libro](0dfe373f6110d6fe1ceea31c8f4572b63b5426b4)
 ## Índice
 
 * [1. Consideraciones generales](#1-consideraciones-generales)
