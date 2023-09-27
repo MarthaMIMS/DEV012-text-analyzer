@@ -5,7 +5,7 @@ Este proyecto es una herramienta en línea que permite contar el número de pala
 * [1. Descripcion](#1-Descripcion)
 * [2. Caracteristicas](#2-Caracteristicas)
 * [3. Funcionalidad](#3-Funcionalidades)
-* [4 .Requisitos](#5-Requisitos)
+* [4 .Tecnologias](#5-Tecnologias)
 * [5. Deploy](#4-Deploy)
 * [6 .Autor](#6-Autor)
 
@@ -21,7 +21,8 @@ Esta herramienta es capaz de obtener métricas importantes de cualquier texto. C
 
 ## 2. Caracteristicas
 * Interfaz de Usuario Amigable: Ofrece una interfaz fácil de usar que permite a los usuarios ingresar texto y ver los resultados de manera clara y sencilla.
-![](Diagrama en blanco.png)
+  
+![](Diagrama en blanco (1).png)
 * Resultados Instantáneos: Proporciona resultados de métricas de manera rápida y en tiempo real a medida que se ingresa el texto.
 
 
@@ -44,9 +45,20 @@ resultado en tiempo real a medida que la usuaria escribe su texto:
 5. La aplicación permite limpiar el contenido de la caja de texto haciendo
 clic en un botón.
 
-## 4. Requisitos
+## 4. Tecnologias utilizadas
+
+Este proyecto fue desarrollado principalmente utilizando JavaScript, HTML y CSS. A continuación, se proporciona una distribución relativa del código:
+
+ - **JavaScript :** La lógica principal de la herramienta de contador de palabras está implementada en JavaScript, asegurando un rendimiento eficiente y una experiencia de usuario fluida.
+
+ - **HTML :** La estructura básica de la interfaz de usuario se crea mediante HTML, proporcionando la base para la presentación del contenido.
+
+ - **CSS :** El estilo y diseño visual se gestionan con CSS para garantizar una presentación atractiva y una experiencia de usuario intuitiva.
+
+La distribución del código refleja la importancia de JavaScript en el desarrollo de la funcionalidad principal, mientras que HTML y CSS contribuyen significativamente a la presentación y diseño general de la herramienta.
+
 ## 4. Deploy
-En este link podras acceder https://marthamims.github.io/DEV012-text-analyzer/#1-Descripcion
+En este link podras acceder a la aplicacion https://marthamims.github.io/DEV012-text-analyzer/#1-Descripcion
 ## 4. Autor
 El proyecto fue desarrollado para el bootcam de Laboratoria-Desarrollo por Martha Irene Meliton Suarez.
 
