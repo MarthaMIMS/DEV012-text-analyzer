@@ -1,5 +1,4 @@
 # Analizador de texto
-![](Opera Captura de pantalla_2023-09-26_153003_192.168.100.8.png)
 Este proyecto es una herramienta en línea que permite contar el número de palabras en un texto. Desarrollado con HTML, CSS y JavaScript, te permite analizar y obtener métricas clave.
 
 ## Índice
@@ -48,7 +47,10 @@ clic en un botón.
 
 ## 4. Requisitos
 ## 4. Deploy
+En este link podras acceder 
 ## 4. Autor
+El proyecto fue desarrollado para el bootcam de Laboratoria-Desarrollo por Martha Irene Meliton Suarez.
+
 
 
 
