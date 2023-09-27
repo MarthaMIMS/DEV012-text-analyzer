@@ -21,10 +21,9 @@ Esta herramienta es capaz de obtener métricas importantes de cualquier texto. C
 
 ## 2. Caracteristicas
 * Interfaz de Usuario Amigable: Ofrece una interfaz fácil de usar que permite a los usuarios ingresar texto y ver los resultados de manera clara y sencilla.
-
-* Resultados Instantáneos: Proporciona resultados de métricas de manera rápida y en tiempo real a medida que se ingresa el texto.
-La estructura se ve asi:
 ![](Diagrama en blanco.png)
+* Resultados Instantáneos: Proporciona resultados de métricas de manera rápida y en tiempo real a medida que se ingresa el texto.
+
 
 ## 3. Funcionalidades
 
@@ -35,19 +34,19 @@ en un cuadro de texto.
 ![](metricas.png)
 4. La aplicación debe calcular las siguientes métricas y actualizar el
 resultado en tiempo real a medida que la usuaria escribe su texto:
--**Recuento de palabras:** La aplicación muestra el número de palabras en el texto de entrada.
--**Recuento de caracteres:** Cuenta el número de caracteres en el texto de entrada, incluidos espacios y signos de puntuación.
--**Recuento de caracteres excluyendo espacios y signos de puntuación:** Cuenta el número de caracteres en el texto de entrada, excluyendo espacios y signos de puntuación.
--**Recuento de números:** Cuenta cúantos números hay en el texto de entrada.
--**Suma total de números:** Suma todos los números que hay en el texto de entrada.
--**Longitud media de las palabras:** Calcula la longitud media de las palabras en el texto de entrada.
+* -**Recuento de palabras:** La aplicación muestra el número de palabras en el texto de entrada.
+* -**Recuento de caracteres:** Cuenta el número de caracteres en el texto de entrada, incluidos espacios y signos de puntuación.
+* -**Recuento de caracteres excluyendo espacios y signos de puntuación:** Cuenta el número de caracteres en el texto de entrada, excluyendo espacios y signos de puntuación.
+* -**Recuento de números:** Cuenta cúantos números hay en el texto de entrada.
+* -**Suma total de números:** Suma todos los números que hay en el texto de entrada.
+* -**Longitud media de las palabras:** Calcula la longitud media de las palabras en el texto de entrada.
 
 5. La aplicación permite limpiar el contenido de la caja de texto haciendo
 clic en un botón.
 
 ## 4. Requisitos
 ## 4. Deploy
-En este link podras acceder 
+En este link podras acceder https://marthamims.github.io/DEV012-text-analyzer/#1-Descripcion
 ## 4. Autor
 El proyecto fue desarrollado para el bootcam de Laboratoria-Desarrollo por Martha Irene Meliton Suarez.
 
