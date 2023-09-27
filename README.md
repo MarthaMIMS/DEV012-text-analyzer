@@ -1,13 +1,17 @@
 # Analizador de texto
 ![](Opera Captura de pantalla_2023-09-26_153003_192.168.100.8.png)
+Este proyecto es una herramienta en línea que permite contar el número de palabras en un texto. Desarrollado con HTML, CSS y JavaScript, te permite analizar y obtener métricas clave.
 
 ## Índice
-*Descripcion
-*Caracteristicas
-*Funcionalidad
-*
+* [1. Descripcion](#1-Descrpcion)
+* [2. Caracteristicas](#2-Caracteristicas)
+* [3. Funcionalidad](#3-Funcionalidades)
+* [4. Deploy](#4-Deploy)
+* [5 .Requisitos](#5-Requisitos)
+* [6 .Autor](#6-Autor)
 
-##Descripcion
+***
+## 1. Descripcion
 Esta herramienta es capaz de obtener métricas importantes de cualquier texto. Con ella, puedes obtener información sobre el contenido de un texto de manera rápida y sencilla. El Analizador de Texto cuenta con las siguientes 6 métricas:
 1.Recuento de palabras: La aplicación muestra el número de palabras en el texto de entrada.
 2.Recuento de caracteres: Cuenta el número de caracteres en el texto de entrada, incluidos espacios y signos de puntuación.
@@ -17,21 +21,10 @@ Esta herramienta es capaz de obtener métricas importantes de cualquier texto. C
 6.Longitud media de las palabras: Calcula la longitud media de las palabras en el texto de entrada.
 
 
-* [1. Consideraciones generales](#1-consideraciones-generales)
-* [2. Preámbulo](#2-preámbulo)
-* [3. Resumen del proyecto](#3-resumen-del-proyecto)
-* [4. Funcionalidades](#4-funcionalidades)
-* [5. Boilerplate](#5-boilerplate)
-* [6. Criterios de aceptación mínimos del proyecto](#6-criterios-de-aceptación-mínimos-del-proyecto)
-* [7. Pruebas](#7-pruebas)
-* [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
-* [9. Consideraciones para pedir tu Project Feedback](#9-consideraciones-para-pedir-tu-project-feedback)
-* [10. Objetivos de aprendizaje](#10-objetivos-de-aprendizaje)
-* [11. Funcionalidades opcionales](#11-funcionalidades-opcionales)
 
-***
 
-## 1. Consideraciones generales
+
+## 2. Caracteristicas
 
 * Este proyecto lo resolvemos de manera **individual**.
 * El rango de tiempo estimado para completar el proyecto es de 1 a 3 Sprints.
