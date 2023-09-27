@@ -24,6 +24,7 @@ Esta herramienta es capaz de obtener métricas importantes de cualquier texto. C
 
 
 
+
 ## 2. Caracteristicas
 
 * Este proyecto lo resolvemos de manera **individual**.
@@ -32,13 +33,6 @@ Esta herramienta es capaz de obtener métricas importantes de cualquier texto. C
 * Te sugerimos que no intentes saberlo todo antes de empezar a codear.
   No te preocupes demasiado ahora por lo que _todavía_ no entiendas.
   Irás aprendiendo.
-
-## 2. Preámbulo
-
-![Una lupa sobre texto de libro](https://github.com/Laboratoria/curriculum/assets/92090/2b45f653-69a5-4282-a65c-d34125c36113)
-
-_Credito: Foto de [ethan](https://unsplash.com/fr/@andallthings?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
-_en [Unsplash](https://unsplash.com/es/fotos/72NpWZJOskU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 Un analizador de texto es una aplicación para extraer información útil de un
 texto utilizando diversas técnicas, como el procesamiento del lenguaje
